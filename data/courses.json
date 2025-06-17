@@ -1,0 +1,14 @@
+[
+    {
+        "courseName": "Web Development",
+        "courseDescription": "Learn modern web development technologies"
+    },
+    {
+        "courseName": "Mobile Development",
+        "courseDescription": "Build mobile applications for iOS and Android"
+    },
+    {
+        "courseName": "Database Design",
+        "courseDescription": "Master database design and management"
+    }
+]
